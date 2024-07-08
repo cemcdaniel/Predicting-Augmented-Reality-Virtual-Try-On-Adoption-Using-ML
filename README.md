@@ -1,0 +1,28 @@
+Augmented Reality Virtual Try-on Study
+Overview
+This quantitative comparative research study aims to assess the performance of the Technology Acceptance Model (TAM) in predicting Augmented Reality Virtual Try-on (AR VTO) adoption compared to various machine learning algorithms. The study also seeks to identify and compare key predictors of behavioral intention towards adopting AR VTO technology.
+Objectives
+Compare TAM's predictive performance against machine learning algorithms:
+Multiple Linear Regression (MLR)
+K-Nearest Neighbors (KNN)
+Support Vector Regression (SVR)
+Random Forest (RF)
+Multilayer Perceptron (MLP)
+Identify and compare key predictors of behavioral intention for AR VTO adoption across different algorithms.
+Uncover previously unrecognized factors influencing AR VTO adoption.
+Provide a nuanced understanding of technology acceptance across diverse consumer segments.
+Develop insights to enhance user experience and drive widespread adoption of AR VTO in online retail.
+Methodology
+The study employs a quantitative comparative approach, utilizing both traditional theoretical frameworks (TAM) and data-driven machine learning techniques.
+Data Collection
+This study will use an archived dataset that can be found at https://data.mendeley.com/datasets/hwj7dj3xbb/3
+Analysis
+Implement TAM to predict AR VTO adoption.
+Train and evaluate machine learning models (MLR, KNN, SVR, RF, MLP) on the collected data.
+Compare predictive performance of TAM and machine learning models using appropriate metrics.
+Analyze feature importance and coefficients from each model to identify key predictors.
+Conduct comparative analysis of predictors across different models.
+Expected Outcomes
+Comparative performance analysis of TAM vs. machine learning models in predicting AR VTO adoption.
+Identification of key predictors for AR VTO adoption intention.
+Insights into previously unrecognized factors influencing technology acceptance.

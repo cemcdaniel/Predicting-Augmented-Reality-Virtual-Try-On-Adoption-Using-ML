@@ -38,7 +38,7 @@ Identification of key predictors for AR VTO adoption intention
 Insights into previously unrecognized factors influencing technology acceptance  
 
 Project Structure
-Dataset 000_AR_fashion_Originaldata_23.11Vietnamese.csv  
+Dataset  000_AR_fashion_Originaldata_23.11Vietnamese.csv  
 
 Data Preparation
 001. Create Cleaned Dataset-11182024.ipynb

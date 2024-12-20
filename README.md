@@ -1,5 +1,5 @@
-**Beyond the TAM: Using Machine Learning to Predict Consumer Adoption of Augmented Reality Virtual Try-ons**
-Overview
+**Beyond the TAM: Using Machine Learning to Predict Consumer Adoption of Augmented Reality Virtual Try-ons**  
+Overview  
 This quantitative comparative research study aims to assess the performance of the Technology Acceptance Model (TAM) in predicting Augmented Reality Virtual Try-on (AR VTO) adoption compared to various machine learning algorithms. The study also seeks to identify and compare key predictors of behavioral intention towards adopting AR VTO technology.  
 Objectives  
 Compare TAM's predictive performance against machine learning algorithms:  

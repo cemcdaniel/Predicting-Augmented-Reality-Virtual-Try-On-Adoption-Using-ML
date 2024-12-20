@@ -29,3 +29,25 @@ Insights into previously unrecognized factors influencing technology acceptance
 
 Running the Notebooks
 The notebooks should be run in numerical order. Note that the file 000 is the dataset used as input into the first notebook.
+Notebook Execution Order
+Data Preparation and Cleaning
+000_AR_fashion_Originaldata_23.11Vietnamese (Input dataset)
+001_Create Cleaned Dataset
+002_Data Exploration
+003_PCA Create Feature List
+Model Development
+004_BuildTestHarnesses-with extra models
+005_TAM
+006_Gradient Boost
+007_KNN
+008_Lasso
+009_MLP
+010_MLR
+011_RF
+012_Ridge
+013_SVR
+014_StatsModel MLR
+015_ElasticNet
+016_XGBoost
+Analysis and Comparison
+900_Cross Model Comparison for Document

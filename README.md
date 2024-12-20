@@ -37,7 +37,7 @@ Comparative performance analysis of TAM vs. machine learning models in predictin
 Identification of key predictors for AR VTO adoption intention  
 Insights into previously unrecognized factors influencing technology acceptance  
 
-Project Structure
+Project Structure   
 Dataset  000_AR_fashion_Originaldata_23.11Vietnamese.csv  
 
 Data Preparation

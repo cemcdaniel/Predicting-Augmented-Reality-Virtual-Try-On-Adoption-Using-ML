@@ -26,5 +26,6 @@ Expected Outcomes
 Comparative performance analysis of TAM vs. machine learning models in predicting AR VTO adoption
 Identification of key predictors for AR VTO adoption intention
 Insights into previously unrecognized factors influencing technology acceptance
+
 Running the Notebooks
 The notebooks should be run in numerical order. Note that the file 000 is the dataset used as input into the first notebook.

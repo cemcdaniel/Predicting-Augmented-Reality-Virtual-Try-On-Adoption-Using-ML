@@ -40,13 +40,13 @@ Insights into previously unrecognized factors influencing technology acceptance
 Project Structure   
 Dataset  000_AR_fashion_Originaldata_23.11Vietnamese.csv  
 
-Data Preparation
+Data Preparation  
 '001. Create Cleaned Dataset-11182024.ipynb  
 '002. Data Exploration-11182024.ipynb  
 '003. PCA Create Feature List 11182024.ipynb  
 '004. BuildTestHarnesses-with extra models 11182024.ipynb        
 
-Model Development
+Model Development   
 '005. TAM 11182024.ipynb  
 '006. Gradient Boost - 11182024.ipynb  
 '007. KNN 11182024.ipynb  

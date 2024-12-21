@@ -41,24 +41,24 @@ Project Structure
 Dataset  000_AR_fashion_Originaldata_23.11Vietnamese.csv  
 
 Data Preparation
-001. Create Cleaned Dataset-11182024.ipynb
-002. Data Exploration-11182024.ipynb
-003. PCA Create Feature List 11182024.ipynb
-004. BuildTestHarnesses-with extra models 11182024.ipynb  
+'001. Create Cleaned Dataset-11182024.ipynb
+'002. Data Exploration-11182024.ipynb
+'003. PCA Create Feature List 11182024.ipynb
+'004. BuildTestHarnesses-with extra models 11182024.ipynb  
 
 Model Development
-005. TAM 11182024.ipynb  
-006. Gradient Boost - 11182024.ipynb  
-007. KNN 11182024.ipynb  
-008. Lasso 11182024.ipynb  
-009. MLP-11182024.ipynb  
-010. MLR-11182024.ipynb  
-011. RF 11182024.ipynb  
-012. Ridge - 11182024.ipynb
-013. SVR- 11182024.ipynb  
-014. StatsModel 11182024 MLR.ipynb  
-015. ElasticNet 11182024.ipynb  
-016. XGBoost 11182024.ipynb     
+'005. TAM 11182024.ipynb  
+'006. Gradient Boost - 11182024.ipynb  
+'007. KNN 11182024.ipynb  
+'008. Lasso 11182024.ipynb  
+'009. MLP-11182024.ipynb  
+'010. MLR-11182024.ipynb  
+'011. RF 11182024.ipynb  
+'012. Ridge - 11182024.ipynb
+'013. SVR- 11182024.ipynb  
+'014. StatsModel 11182024 MLR.ipynb  
+'015. ElasticNet 11182024.ipynb  
+'016. XGBoost 11182024.ipynb     
   
 Analysis  
 
